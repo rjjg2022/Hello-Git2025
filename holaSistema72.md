@@ -8,4 +8,6 @@
 - Seleste72
 
 ## AstroFisica
--Estrellas
+- Estrellas
+- Planetas
+- Asteroides
