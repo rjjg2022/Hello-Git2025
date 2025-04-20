@@ -1,1 +1,1 @@
-print("new 2auth")
+print("new 2auth - v2.0")
